@@ -85,7 +85,10 @@ Users can inspect the supporting sources and navigate directly to the correspond
    Text Extraction     Query Embedding
           |                 |
           v                 |
-     Text Chunking          |
+     Text Chunking          |<img width="1356" height="1577" alt="2 2" src="https://github.com/user-attachments/assets/9860ab34-d688-46dd-94ee-2c853075dd95" />
+<img width="1356" height="2132" alt="2 3" src="https://github.com/user-attachments/assets/c28b1491-8586-42dd-98a6-bbeaed989a9f" />
+<img width="1356" height="1019" alt="2 1" src="https://github.com/user-attachments/assets/07ff40b6-56e3-485f-8d22-4bda7dd369d4" />
+
           |                 |
           v                 |
   Document Embeddings       |
@@ -231,6 +234,7 @@ Create a `.env` file inside the `backend` directory:
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 ```
+<img width="1356" height="1731" alt="1" src="https://github.com/user-attachments/assets/6c7d32f2-0d0b-4626-81ba-9a63e763eedb" />
 
 Replace the placeholder with your actual Groq API key.
 
