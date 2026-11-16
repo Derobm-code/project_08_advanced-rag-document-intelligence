@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local vector database
+backend/qdrant_storage/
+**/qdrant_storage/
+# Qdrant local databases and backups
+backend/qdrant_storage/
+backend/qdrant_storage_backup/
+
+# Uploaded files and generated data
+uploads/
+backend/uploads/
+*.log
+
+# Node and Vite
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
