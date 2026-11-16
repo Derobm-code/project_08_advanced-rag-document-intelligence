@@ -12,6 +12,21 @@ Instead of relying solely on an LLM's general knowledge, the application retriev
 
 Users can inspect the supporting sources and navigate directly to the corresponding pages in the integrated PDF viewer.
 
+
+## Application Screenshots
+
+### Document Upload
+![UI](./1.png)
+
+![PDF Document Upload](./2.1.png)
+
+### Semantic Search
+![Semantic Search Results](./2.2.png)
+
+### AI Question Answering
+![AI Answer with Source Citations](./2.3.png)
+
+
 ## Key Features
 
 ### PDF Document Upload and Processing
